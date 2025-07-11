@@ -38,7 +38,7 @@ let spawnPointY = 0;
 function preload() {
     playerSheet = loadImage("./Free/MainCharacters/NinjaFrog/Idle (32x32).png");
     worldSheet = loadImage("./Free/Terrain/Terrain (16x16).png");
-    pineappleSheet = loadImage("./Free/Items/Fruits/pineapple.png");
+    pineappleSheet = loadImage("./Free/Items/Fruits/Pineapple.png");
     halfwaySheet = loadImage("./Free/Items/Checkpoints/Checkpoint/Checkpoint(idle).png");
     startSheet = loadImage("./Free/Items/Checkpoints/Start/Start(Moving).png");
     endSheet = loadImage("./Free/Items/Checkpoints/End/End(Pressed).png");
